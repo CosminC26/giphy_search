@@ -107,7 +107,7 @@ export const Giphy = () => {
                 >
                   Go
                 </button>
-                ceva
+                
               </form>
               
               <div className="container gifs">{renderGifs()}</div>
